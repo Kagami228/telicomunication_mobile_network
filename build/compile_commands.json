@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/sasha/Documents/mobile_network/build",
+    "command": "c++  -Imobile_network@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Wpedantic -std=c++14 -O0 -g -MD -MQ 'mobile_network@exe/main.cpp.o' -MF 'mobile_network@exe/main.cpp.o.d' -o 'mobile_network@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp"
+  }
+]
